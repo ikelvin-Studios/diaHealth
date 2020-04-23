@@ -18,11 +18,12 @@ if (isset($_GET['page'])) {
     $showPage = true;
   } elseif ($page=='both') {
     // code...
-    $page = 'Both Diabetic & High Cholesterol';
+    $page = 'Both Diabetis & High Cholesterol';
     $showBoth = 'active';
     $showPage = true;
   } elseif($page=='Diabetic') {
     // code...
+    $page = 'Diabetes';
     $showDiabetic = 'active';
     $showPage = true;
   } elseif($page=='High Cholestrol') {
@@ -106,7 +107,7 @@ if (isset($_GET['page'])) {
 	        <ul class="navbar-nav mr-auto">
 	        	<li class="nav-item  <?=$showHome?>"><a href="./" class="nav-link pl-0">Home</a></li>
 
-	        	<li class="nav-item <?=$showDiabetic?>"><a href="?page=Diabetic" class="nav-link">Diabetic</a></li>
+	        	<li class="nav-item <?=$showDiabetic?>"><a href="?page=Diabetic" class="nav-link">Diabetes</a></li>
 	        	<li class="nav-item <?=$showCholestrol?>"><a href="?page=High Cholestrol" class="nav-link">High Cholesterol</a></li>
 	        	<li class="nav-item <?=$showBoth?>"><a href="?page=both" class="nav-link">Both Diabetic & High cholesterol</a></li>
             <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
