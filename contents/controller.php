@@ -2,7 +2,7 @@
 if ($page == 'Stay Healthy') {
   // code...
   include 'contents/stayHealthy/stayHealthy'.$section.'.php';
-} elseif ($page == 'Diabetis') {
+} elseif ($page == 'Diabetes') {
   // code...
   include 'contents/diabetis/diabetis'.$section.'.php';
 } elseif ($page == 'High Cholestrol') {
