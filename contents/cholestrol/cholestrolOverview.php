@@ -1,4 +1,4 @@
-<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+<p>Cholesterol is a waxy, fat-like substance that's found in all the cells in your body. Your body needs some cholesterol to make hormones, vitamin D, and substances that help you digest foods. Your body makes all the cholesterol it needs</p>
 <div class="row mt-5 pt-2">
   <div class="col-lg-6">
     <div class="services-2 d-flex">
