@@ -110,7 +110,10 @@ if (isset($_GET['page'])) {
 	        	<li class="nav-item <?=$showDiabetic?>"><a href="?page=Diabetic" class="nav-link">Diabetes</a></li>
 	        	<li class="nav-item <?=$showCholestrol?>"><a href="?page=High Cholestrol" class="nav-link">High Cholesterol</a></li>
 	        	<li class="nav-item <?=$showBoth?>"><a href="?page=both" class="nav-link">Both Diabetic & High cholesterol</a></li>
-            <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+            <?php if (!$showPage): ?>
+              <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+            <?php endif; ?>
+
 	          <!-- <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li> -->
 	        </ul>
 	      </div>
@@ -122,6 +125,12 @@ if (isset($_GET['page'])) {
 if ($showPage) {
   // code...
   include 'pages/page.php';
+  // if ($page=='about') {
+  //   // code...
+  //   include 'pages/about.php';
+  // } else {
+  //   include 'pages/page.php';
+  // }
 } else {
   // code...
   include 'pages/home.php';
