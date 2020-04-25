@@ -4,8 +4,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-first-aid-kit"></span></div>
       <div class="text">
-        <h3>Primary Care</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Diets</h3>
+        <p>Diets recommended by professional dieticians for the average Ghanaian people with high cholestrol levels.</p>
       </div>
     </div>
   </div>
@@ -13,8 +13,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-dropper"></span></div>
       <div class="text">
-        <h3>Lab Test</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Exercises</h3>
+        <p>Exercises recommended by certified and approved dieticians/fitness professionals for the average Ghanaian people with high cholestrol levels.</p>
       </div>
     </div>
   </div>
@@ -22,8 +22,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-experiment-results"></span></div>
       <div class="text">
-        <h3>Symptom Check</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Tips</h3>
+        <p>General tips and advices for the general Ghanaian people with high cholestrol levels.</p>
       </div>
     </div>
   </div>
@@ -31,8 +31,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-heart-rate"></span></div>
       <div class="text">
-        <h3>Heart Rate</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>FAQs</h3>
+        <p>Frequently asked questions about people with high cholestrol levels.</p>
       </div>
     </div>
   </div>

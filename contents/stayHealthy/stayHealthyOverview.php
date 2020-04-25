@@ -1,11 +1,11 @@
-<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+<p>This page summarizes all the diets, exercises and tips you need to prevent diabetes and high cholesterol levels. it also contains frequently asked questions (FAQs) about both of them.</p>
 <div class="row mt-5 pt-2">
   <div class="col-lg-6">
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-first-aid-kit"></span></div>
       <div class="text">
-        <h3>Primary Care</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Diets</h3>
+        <p>For Diets Eat Fruits and Healthy Foods</p>
       </div>
     </div>
   </div>
@@ -13,8 +13,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-dropper"></span></div>
       <div class="text">
-        <h3>Lab Test</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Exercises</h3>
+        <p>For Exercises keep your active by taking a walk, jog or doing a sports</p>
       </div>
     </div>
   </div>
@@ -22,8 +22,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-experiment-results"></span></div>
       <div class="text">
-        <h3>Symptom Check</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>Tips</h3>
+        <p>General tips and advices for the general Ghanaian people to prevent diabetes and high cholestrol levels.</p>
       </div>
     </div>
   </div>
@@ -31,8 +31,8 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-heart-rate"></span></div>
       <div class="text">
-        <h3>Heart Rate</h3>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+        <h3>FAQs</h3>
+        <p>Frequently asked questions about preventing diabetes and high cholestrol levels.</p>
       </div>
     </div>
   </div>
