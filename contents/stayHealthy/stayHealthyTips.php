@@ -1,4 +1,4 @@
-<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
+<p>Tips For The Average Person To Stay Healthy</p>
 <div class="row mt-5 pt-2">
   <div class="col-lg-12">
     <div class="services-2 d-flex">
@@ -58,12 +58,13 @@
     <div class="services-2 d-flex">
       <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-experiment-results"></span></div>
       <div class="text">
-        <h3>PREVENTIVE MEASURES FOR HIGH CHOLESTEROL CHOLESTEROL</h3>
+        <h3>PREVENTIVE MEASURES FOR HIGH CHOLESTEROL</h3>
         <!-- <p>Lunch should be eaten before 1pm & Supper should be eaten before 6pm</p> -->
         <div class="row">
           <div class="col-lg-12">
             <div class="services-2 d-flex">
               <div class="text">
+                <h3>Factors that exposes one to high choleterol</h3>
                 <!-- <h3>Stews</h3> -->
                 <!-- <p>Breakfast should be taken before 9am</p> -->
                 <ul>
