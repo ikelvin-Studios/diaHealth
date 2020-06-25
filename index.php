@@ -78,22 +78,6 @@ if (isset($_GET['page'])) {
     			<div class="col-lg-2 pr-4 align-items-center">
 		    		<a class="navbar-brand" href="./">dia<span>Health</span></a>
 	    		</div>
-	    		<div class="col-lg-10 d-none d-md-block">
-		    		<div class="row d-flex">
-			    		<!-- <div class="col-md-4 pr-4 d-flex topper align-items-center">
-			    			<div class="icon bg-white mr-2 d-flex justify-content-center align-items-center"><span class="icon-map"></span></div>
-						    <span class="text">Address: 198 West 21th Street, Suite 721 New York NY 10016</span>
-					    </div> -->
-					    <!-- <div class="col-md pr-4 d-flex topper align-items-center">
-					    	<div class="icon bg-white mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-						    <span class="text">Email: youremail@email.com</span>
-					    </div> -->
-					    <!-- <div class="col-md pr-4 d-flex topper align-items-center">
-					    	<div class="icon bg-white mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-						    <span class="text">Phone: + 1235 2355 98</span>
-					    </div> -->
-				    </div>
-			    </div>
 		    </div>
 		  </div>
     </nav>
@@ -114,7 +98,6 @@ if (isset($_GET['page'])) {
               <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
             <?php endif; ?>
 
-	          <!-- <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li> -->
 	        </ul>
 	      </div>
 	    </div>
@@ -125,12 +108,7 @@ if (isset($_GET['page'])) {
 if ($showPage) {
   // code...
   include 'pages/page.php';
-  // if ($page=='about') {
-  //   // code...
-  //   include 'pages/about.php';
-  // } else {
-  //   include 'pages/page.php';
-  // }
+
 } else {
   // code...
   include 'pages/home.php';
@@ -175,30 +153,16 @@ if ($showPage) {
             	<h2 class="ftco-heading-2">Opening Hours</h2>
             	<h3 class="open-hours pl-4"><span class="ion-ios-time mr-3"></span>We are open 24/7</h3>
             </div>
-            <!-- <div class="ftco-footer-widget mb-5">
-            	<h2 class="ftco-heading-2">Subscribe Us!</h2>
-              <form action="#" class="subscribe-form">
-                <div class="form-group">
-                  <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
-                  <input type="submit" value="Subscribe" class="form-control submit px-3">
-                </div>
-              </form>
-            </div> -->
+
             <div class="ftco-footer-widget mb-5">
               <h2 class="ftco-heading-2">Have a Questions?</h2>
               <div class="block-23 mb-3">
                 <ul>
-                  <!-- <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li> -->
-                  <!-- <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li> -->
-                  <li><a href="mailto:info@yourdomain.com"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+
+                  <li><a href="mailto:diaHealth@campusinsider.net"><span class="icon icon-envelope"></span><span class="text">diaHealth@campusinsider.net</span></a></li>
                 </ul>
               </div>
 
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
             </div>
           </div>
         </div>
