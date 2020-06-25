@@ -205,9 +205,9 @@ if ($showPage) {
         <div class="row">
           <div class="col-md-12 text-center">
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://twitter.com" target="_blank">You</a> and <a href="https://twitter.com" target="_blank">Partner</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+            <p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://twitter.com" target="_blank" disabled>Rebecca Sarfo Kantanka</a> and <a href="https://twitter.com" target="_blank" disabled>Abena Darkwaa Boateng</a>
+  </p>
           </div>
         </div>
       </div>
