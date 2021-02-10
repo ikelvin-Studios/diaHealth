@@ -76,7 +76,7 @@ if (isset($_GET['page'])) {
     	<div class="container">
     		<div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
     			<div class="col-lg-2 pr-4 align-items-center">
-		    		<a class="navbar-brand" href="./">dia<span>Health</span></a>
+		    		<a class="navbar-brand" href="./">diet<span>Companion</span></a>
 	    		</div>
 		    </div>
 		  </div>
@@ -120,7 +120,7 @@ if ($showPage) {
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-5">
-              <h2 class="ftco-heading-2 logo">dia<span>Health</span></h2>
+              <h2 class="ftco-heading-2 logo">diet<span>Companion</span></h2>
               <p>Your free online platform for your diabetic and high Cholesterol level related issues.</p>
             </div>
 
