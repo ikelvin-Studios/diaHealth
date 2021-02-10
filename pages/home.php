@@ -5,7 +5,7 @@
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 text ftco-animate">
-            <h1 class="mb-4">welcome to <span>diaHealth.</span></h1>
+            <h1 class="mb-4">welcome to <span>dietCompanion.</span></h1>
             <h3 class="subheading">Your free online platform for your diabetic and high Cholesterol level related issues.</h3>
             <p><a href="?page=Stay Healthy" class="btn btn-secondary px-4 py-3 mt-3">Stay Healthy</a></p>
           </div>
