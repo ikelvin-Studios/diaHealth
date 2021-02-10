@@ -1,6 +1,6 @@
 <div class="row departments">
   <div class="col-lg-4 order-lg-last d-flex align-items-stretch">
-    <div class="img d-flex align-self-stretch" style="background-image: url(static/images/dept-5.jpg);"></div>
+    <div class="img d-flex align-self-stretch" style="background-image: url(static/images/dept-5.webp);"></div>
   </div>
   <div class="col-md-8">
     <h2>FAQ (Frequently Asked Questions)</h2>
